@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Wekan
-Exec=webapp-container --app-id="wekan.wekanteam" $@ https://boards.wekan.team
+Exec=webapp-container --app-id="wekan.wekanteam" --webappUrlPatterns https://boards.wekan.team
 Icon=assets/logo.svg
 Terminal=false
 Type=Application

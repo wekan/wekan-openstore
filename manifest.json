@@ -9,7 +9,7 @@
             "desktop":  "wekan.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "Wekan Team <support@wekan.team>",
     "framework" : "ubuntu-sdk-16.04"
 }
