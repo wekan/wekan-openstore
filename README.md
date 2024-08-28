@@ -10,9 +10,3 @@
 
 - Website https://wekan.github.io
 - Source code https://github.com/wekan/wekan
-
-## License
-
-Copyright (C) 2023  Lauri Ojansivu
-
-Licensed under the MIT license.
