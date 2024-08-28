@@ -1,7 +1,7 @@
 ## WeKan app for Ubuntu Touch OpenStore
 
 - PWA URL configured at https://github.com/wekan/wekan-openstore/blob/master/wekan.desktop#L3
-- Dev server donated for WeKan development by CNCF https://blog.wekan.team/2018/01/wekan-progress-on-x64-and-arm/
+- Dev server donated for WeKan development https://wekan.github.io/sponsors/
 - OpenStore versions:
   - For Ubuntu 16.04 based Ubuntu Touch https://github.com/wekan/wekan-openstore
   - For Ubuntu 20.04 based Ubuntu Touch https://github.com/wekan/wekan-openstore2
